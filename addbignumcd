@@ -1,0 +1,7 @@
+import math
+x = 10
+y = 9
+
+math.pow(x,y)  # x raised to the power y
+
+print(math.pow(x,y))

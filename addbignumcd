@@ -4,10 +4,10 @@ y1 = 9
 y2 = -6
 y3 = 6
 
-math.pow(x,y)  # x raised to the power y
+# math.pow(x,y)  x raised to the power y
 
 print(math.pow(x,y1))
 
 print(math.pow(x,y2))
 
-result = math.pow(x,y1) + (math.pow(x,y2)*math.pow(x,y3)) - math.pow(x,y1)
+print(math.pow(x,y1) + (math.pow(x,y2)*math.pow(x,y3)) - math.pow(x,y1))
